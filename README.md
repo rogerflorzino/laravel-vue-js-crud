@@ -1,1 +1,2 @@
-# laravel-vue-js-crud
+# A simple CRUD example using Laravel with VueJs
+
