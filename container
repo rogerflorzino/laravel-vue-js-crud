@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker exec -it php-apache bash -c "sudo -u devuser /bin/bash"
+

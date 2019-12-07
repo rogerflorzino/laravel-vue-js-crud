@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Building docker containers!"
+eval "docker-compose build --build-arg uid=$UID"
